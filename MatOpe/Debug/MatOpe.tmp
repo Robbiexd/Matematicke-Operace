@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega64"</DEVICE>
+ <WORKING_DIR>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\m64def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\Debug\MatOpe.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>MatOpe.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>MatOpe.map</FILE>
+  <FILE>MatOpe.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <cislo1><FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\main.asm</FILE><LINE>42</LINE></cislo1>
+  <cislo2><FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\main.asm</FILE><LINE>43</LINE></cislo2>
+  <soucet><FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\main.asm</FILE><LINE>44</LINE></soucet>
+  <rozdil><FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\main.asm</FILE><LINE>45</LINE></rozdil>
+  <soucin><FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\main.asm</FILE><LINE>46</LINE></soucin>
+  <podil><FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\main.asm</FILE><LINE>47</LINE></podil>
+  <zbytek><FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\main.asm</FILE><LINE>48</LINE></zbytek>
+  <Main><FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\main.asm</FILE><LINE>85</LINE></Main>
+  <table><FILE>C:\Users\robhaka016\Desktop\MatOpe\MatOpe\main.asm</FILE><LINE>90</LINE></table>
+ </LABELS>
+</ASSEMBLER_INFO>
